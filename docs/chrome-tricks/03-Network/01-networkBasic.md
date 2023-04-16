@@ -9,11 +9,11 @@ open: true
 
 打开 `Network` 的第一印象，满屏都是请求:
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C04/network-overview.png)
+![](./_static/01-network-overview.png)
 
 上面的截图，好像没有缺少任何有效信息，但是你只看到了自己想看到的，有很多的关键信息在不起眼的位置：
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C04/DOM_LOAD_Time.png)
+![](./_static/01-DOM_LOAD_Time.png)
 
 为什么大部分时候没有注意到呢？因为 DOM 结构渲染的时间，和执行 load 脚本的耗时，是在已经完成功能的情况下进行性能优化的时候才会用到。
 
@@ -31,11 +31,11 @@ open: true
 
 你还可以输入 例如 `method` 或者 `mime-type` 这样的条件来试试:
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C04/network-search.gif)
+![](./_static/01-network-search.gif)
 
 如果想筛选，但是又不知道支持哪些筛选条件，可以输入 `-` 来查看所有的条件：
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C04/network-search02.png)
+![](./_static/01-network-search02.png)
 
 ### 2. Preserve log
 
@@ -43,7 +43,7 @@ open: true
 
 它会一直保留之前的日志，无论是刷新还是页面的跳转：
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C04/Preserve_log.gif)
+![](./_static/01-Preserve_log.gif)
 
 ### 3. 多类型筛选
 
@@ -51,7 +51,7 @@ open: true
 
 按住 `cmd` ，然后鼠标左键选择你想添加筛选的类目：
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C04/select.gif)
+![](./_static/01-select.gif)
 
 ### 4. 查看未压缩的文件体积
 
@@ -59,7 +59,7 @@ open: true
 
 只需要在 `Network` 面板中设置 `Use large request rows` :
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C04/large_request_rows.gif)
+![](./_static/01-large_request_rows.gif)
 
 刷新页面发现，这张图的大小是 `29.7kb` 但是实际上网络传输的体积只有 `29.3kb` 。
 

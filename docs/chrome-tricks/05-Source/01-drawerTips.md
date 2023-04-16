@@ -16,7 +16,7 @@ open: true
 
 当你在 `DevTools` （任何选项卡）中时，按 `[esc]` 来显示它，再次按 `[esc]` 隐藏它：
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C06/open_drawer.gif)
+![](./_static/open_drawer.gif)
 
 默认情况下，您会看到一个 `console` 选项卡。 与主面板的 `console` 完全相同。 这就是为什么主面板会显示除了 `console` 之外的每个主要标签（ `Elements` ， `Sources` ， `Network` ...）- 因为在主面板中显示 `console` 没有意义。
 
@@ -28,7 +28,7 @@ open: true
 
 点击主页面在 `Drawer` 的 `console` 面板前面的 `⋮` 图标来打开完整选项列表。另外，你也可以打开之前我们提到的 `command Menu` ，然后输入 `Drawer` 来打开
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C06/show_animation.gif)
+![](./_static/show_animation.gif)
 
 所有的选项：
 
@@ -54,7 +54,7 @@ open: true
 `Sensors` 面板可以让你模拟特定的位置: 支持从预定义的位置中进行选择，添加自己的位置，或者手动键入纬度/经度。
 
 可以通过 `navigator.geolocation.getCurrentPosition(console.table)` 打印你当前的位置信息：
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C06/drawer_sensor01.gif)
+![](./_static/drawer_sensor01.gif)
 
 :::tip 敲黑板
 如果你还不知道为什么可以直接传入 `console.table` 建议你看看[这一节](https://www.frontendwingman.com/Chrome/C03/consoleTips.html)
@@ -62,4 +62,4 @@ open: true
 
 如果你的 `App` 使用加速计， `Sensors` 面板也可以模拟设备在 3D 空间中的位置！
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C06/drawer_sensor02.gif)
+![](./_static/drawer_sensor02.gif)

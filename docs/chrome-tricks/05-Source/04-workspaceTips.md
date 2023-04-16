@@ -13,7 +13,7 @@ open: true
 
 这对于快速修复代码非常方便：
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C06/work_space_01.gif)
+![](./_static/work_space_01.gif)
 
 ### 2. `Workspace` 支持即时同步样式
 
@@ -22,7 +22,7 @@ open: true
 但是在样式方面它提供了更好的支持。 因为即使你只是在 *“元素”* 面板的 *“样式”* 部分中编辑样式规则，它也会立即同步。
 请注意，是立刻！
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C06/work_space_02.gif)
+![](./_static/work_space_02.gif)
 
 **"黑魔法!"**
 
@@ -32,7 +32,7 @@ open: true
 
 * 按下 `+` 号，添加新样式：
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C06/work_space_03.gif)
+![](./_static/work_space_03.gif)
 
 :::tip 敲黑板
 设置 `Workspace` 后，浏览器中所做的更改不仅会持久的保存到文件系统中，而且， `CSS` 的更改保存在文件系统后，立即就被浏览器选中并显示在你的页面上。**这一过程不需要刷新。**
@@ -47,4 +47,4 @@ open: true
 
 你可以添加部分 `URL` 作为触发器或监听任何请求：
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C06/add_new_request_breakpoint.png)
+![](./_static/add_new_request_breakpoint.png)

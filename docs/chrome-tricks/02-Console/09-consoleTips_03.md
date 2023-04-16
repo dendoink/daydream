@@ -17,7 +17,7 @@ open: true
 
 但是我建议你使用 `Commands Menu` 
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/console_timestamp.gif)
+![](./_static/console_timestamp.gif)
 
 ### 2. 监测执行时间
 
@@ -28,7 +28,7 @@ open: true
 
 如果你想一次记录多件事，可以往这些函数中传入不同的标签值。(例如: `console.time('loading')` ， `console.timeEnd('loading')` )
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/console_time_end.gif)
+![](./_static/console_time_end.gif)
 
 
 ### 3. 让 `console.log` 基于调用堆栈自动缩进
@@ -63,4 +63,4 @@ foo();
 
 运行结果如下：
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/console_stack.png)
+![](./_static/console_stack.png)

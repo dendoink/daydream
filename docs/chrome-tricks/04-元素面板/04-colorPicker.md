@@ -11,7 +11,7 @@ open: true
 
 打开调色板，开始选择颜色:
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C05/color_picker.gif)
+![](./_static/c05-color_picker.gif)
 
 * 选择 `Material` 调色板
 * 自定义，可以添加和删除颜色
@@ -32,7 +32,7 @@ open: true
 
 * “✅ ✅” 意味着满足了 **AAA** 声明。
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C05/contrast_radio.gif)
+![](./_static/c05-contrast_radio.gif)
 
 另外，你可以通过点击上文提到的 `AA` ， `AAA` 或者 `🚫` 符号来阅读更多关于[accessibility rules](https://developers.google.com/web/fundamentals/accessibility/accessible-styles#color_and_contrast) 中颜色的说明。
 

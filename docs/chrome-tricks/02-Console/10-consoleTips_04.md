@@ -39,7 +39,7 @@ function getName(callback) {
 getName(v => console.log(v))
 ```
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/log_result01.png)
+![](./_static/log_result01.png)
 
 但是你可以直接传入 `console.log` 来接受所有的参数：
 
@@ -47,7 +47,7 @@ getName(v => console.log(v))
 getName(console.log)
 ```
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/log_result_02.png)
+![](./_static/log_result_02.png)
 
 上面的效果看起来。好像没什么不一样？当你有多个参数传入时，结果就变得不一样了！
 
@@ -70,7 +70,7 @@ getName(v => console.log(v))
 getName(console.log)
 ```
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/log_result_03.png)
+![](./_static/log_result_03.png)
 
 ### 2. 使用实时表达式
 
@@ -78,4 +78,4 @@ getName(console.log)
 
 只需按下 "眼睛" 符号，你就可以在那里定义任何 `JavaScript` 表达式。 它会不断更新，表达的结果将永远存在 :-)：
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/live-expression.gif)
+![](./_static/live-expression.gif)

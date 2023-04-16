@@ -13,7 +13,7 @@ open: true
 console.table({name, url, chapter})
 ```
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/console_table_obj.png)
+![](./_static/console_table_obj.png)
 
 ### 2. `console.dir` 
 
@@ -21,7 +21,7 @@ console.table({name, url, chapter})
 
 在那样的情况下，就可以使用 `console.dir` :
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/console_dir.png)
+![](./_static/console_dir.png)
 
 ### 3. 给你的 `console.log` 加上 `CSS` 样式
 
@@ -31,4 +31,4 @@ console.table({name, url, chapter})
 console.log('%c FE-Wingman! ', 'background: #222; color: #FFFFFF;font-size:3rem');
 ```
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/logincolor.png)
+![](./_static/logincolor.png)

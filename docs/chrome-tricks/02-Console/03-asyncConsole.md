@@ -11,17 +11,17 @@ open: true
 
 我们在 `JavaScript/TypeScript` 中使用 `promise` 的时候，通常会配套使用 `.then` ，但如果在 `Console` 面板中敲起来很不方便：
  
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/async_console01.png)
+![](./_static/async_console01.png)
 
 或者这样
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/async_console02.png)
+![](./_static/async_console02.png)
 
 试一试吧，大多数时候，代码会在输入完成之前误触发，或者漏写括号报错...
 
 **但如果 `console` 默认就被 `async` 包裹呢？**：
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/async_console03.gif)
+![](./_static/async_console03.gif)
 
 事实上, 在 `Console` 中使用 `promise` 比在 JavaScript 中使用起来还要简单！
 
@@ -33,7 +33,7 @@ open: true
 await navigator.storage.estimate()
 ```
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/async_console04.png)
+![](./_static/async_console04.png)
 
 ### 3.设备的 **电池信息**
 
@@ -41,13 +41,13 @@ await navigator.storage.estimate()
 
 敲黑板：这是一条[不推荐使用的API](https://developer.mozilla.org/en-US/docs/Web/API/Battery_Status_API), 尽管看起来这么酷炫...
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/async_console05.png)
+![](./_static/async_console05.png)
 
 ### 4.媒体能力
 
 `Media Capabilities` 让开发者获取到用户设备/系统/浏览器解码能力的信息，作为前端工程师在为用户选择媒体流时可以做出最佳决策：
 
-![](https://wingman-1300536089.file.myqcloud.com//chrome/C03/async_console06.png)
+![](./_static/async_console06.png)
 
 :::tip 敲黑板
 你可以阅读 w3c 相关的[文档](https://w3c.github.io/media-capabilities/)来了解更多媒体能力的信息
