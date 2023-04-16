@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwingman_website=self.webpackChunkwingman_website||[]).push([[6672],{8872:a=>{a.exports=JSON.parse('{"label":"history books","permalink":"/daydream/reading/tags/history-books","allTagsPath":"/daydream/reading/tags","count":1}')}}]);

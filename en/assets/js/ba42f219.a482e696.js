@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwingman_website=self.webpackChunkwingman_website||[]).push([[7147],{4588:a=>{a.exports=JSON.parse('{"label":"biography","permalink":"/daydream/en/reading/tags/biography","allTagsPath":"/daydream/en/reading/tags","count":1}')}}]);

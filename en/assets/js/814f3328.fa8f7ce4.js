@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwingman_website=self.webpackChunkwingman_website||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Inside fiber in depth","permalink":"/en/blog/2021/09/01/index"}]}')}}]);

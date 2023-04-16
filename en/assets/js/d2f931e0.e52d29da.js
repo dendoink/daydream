@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwingman_website=self.webpackChunkwingman_website||[]).push([[586],{4546:e=>{e.exports=JSON.parse('{"label":"reading","permalink":"/en/reading/tags/reading","allTagsPath":"/en/reading/tags","count":1}')}}]);

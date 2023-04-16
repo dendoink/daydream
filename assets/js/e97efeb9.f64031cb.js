@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwingman_website=self.webpackChunkwingman_website||[]).push([[9532],{3462:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u91cd\u65b0\u5f00\u59cb","permalink":"/life/2023/04/16/welcome"}]}')}}]);

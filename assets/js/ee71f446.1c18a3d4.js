@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwingman_website=self.webpackChunkwingman_website||[]).push([[5936],{9400:a=>{a.exports=JSON.parse('{"label":"reading","permalink":"/daydream/reading/tags/reading","allTagsPath":"/daydream/reading/tags","count":1}')}}]);

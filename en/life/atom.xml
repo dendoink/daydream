@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-test-site.com/en/life</id>
+    <id>https://dendoink.github.io/daydream/en/life</id>
     <title>白日做梦 Blog</title>
     <updated>2023-04-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-test-site.com/en/life"/>
+    <link rel="alternate" href="https://dendoink.github.io/daydream/en/life"/>
     <subtitle>白日做梦 Blog</subtitle>
-    <icon>https://your-docusaurus-test-site.com/en/img/favicon.ico</icon>
+    <icon>https://dendoink.github.io/daydream/en/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[重新开始]]></title>
-        <id>https://your-docusaurus-test-site.com/en/life/2023/04/16/welcome</id>
-        <link href="https://your-docusaurus-test-site.com/en/life/2023/04/16/welcome"/>
+        <id>https://dendoink.github.io/daydream/en/life/2023/04/16/welcome</id>
+        <link href="https://dendoink.github.io/daydream/en/life/2023/04/16/welcome"/>
         <updated>2023-04-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[时间过去了一年多，没有再更新任何的内容，一方面是工作占用了时间，另一方面也在考虑自己的发展方向，2021-2023 经历和发生了太多事情。]]></summary>
         <content type="html"><![CDATA[<p>时间过去了一年多，没有再更新任何的内容，一方面是工作占用了时间，另一方面也在考虑自己的发展方向，2021-2023 经历和发生了太多事情。</p><p>不管怎么样，现在终于有一些时间来重新梳理，这里会分享一些对遇到的事情的日常的思考。</p>]]></content>
