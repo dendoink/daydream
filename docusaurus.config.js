@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://dendoink.github.io',
+  url: 'https://dendoink.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/daydream/',
@@ -19,7 +19,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'dendoink', // Usually your GitHub org/user name.
   projectName: 'daydream', // Usually your repo name.
-
+  deploymentBranch: 'gh-pages',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 

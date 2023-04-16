@@ -16,7 +16,7 @@ function HomepageHeader() {
         paddingBottom: '40px',
         paddingTop: '40px',
       }}>
-        <img src="/img/header.gif" className={styles.headerImage} />
+        <img src="/daydream/img/header.gif" className={styles.headerImage} />
         <div className={styles.buttons}>
           {/* <Link
             className="button button--secondary button--lg"
