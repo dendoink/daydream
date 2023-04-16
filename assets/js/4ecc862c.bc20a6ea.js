@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwingman_website=self.webpackChunkwingman_website||[]).push([[7795],{5009:e=>{e.exports=JSON.parse('{"title":"Chrome tricks","description":"Chrome tricks.","slug":"/category/chrome-tricks","permalink":"/docs/category/chrome-tricks","navigation":{"next":{"title":"\u5199\u5728\u524d\u9762","permalink":"/docs/chrome-tricks/index"}}}')}}]);

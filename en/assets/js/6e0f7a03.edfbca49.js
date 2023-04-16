@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwingman_website=self.webpackChunkwingman_website||[]).push([[2172],{4654:e=>{e.exports=JSON.parse('{"label":"history books","permalink":"/en/reading/tags/history-books","allTagsPath":"/en/reading/tags","count":1}')}}]);

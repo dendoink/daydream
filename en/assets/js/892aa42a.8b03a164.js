@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwingman_website=self.webpackChunkwingman_website||[]).push([[2241],{5709:e=>{e.exports=JSON.parse('{"label":"\u5f20\u5149\u76f4","permalink":"/en/reading/tags/\u5f20\u5149\u76f4","allTagsPath":"/en/reading/tags","count":1}')}}]);
