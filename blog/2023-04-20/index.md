@@ -1,5 +1,5 @@
 ---
-title: Node.js 20 正式发布，一文带你看懂
+title: Node.js 20 正式发布，一文看懂
 description: Node.js 在 20.0.0 版本中加入了超多新特性
 open: true
 authors: [dendoink]
