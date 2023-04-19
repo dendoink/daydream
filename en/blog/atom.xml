@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dendoink.github.io/daydream/en/blog</id>
     <title>白日做梦 Blog</title>
-    <updated>2021-09-01T00:00:00.000Z</updated>
+    <updated>2023-04-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dendoink.github.io/daydream/en/blog"/>
     <subtitle>白日做梦 Blog</subtitle>
     <icon>https://dendoink.github.io/daydream/en/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Github 开始整花活了]]></title>
+        <id>https://dendoink.github.io/daydream/en/blog/2023/04/19/index</id>
+        <link href="https://dendoink.github.io/daydream/en/blog/2023/04/19/index"/>
+        <updated>2023-04-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Extend your codebase with custom, interactive blocks.Build rich documentation, enhance your workflows, and bring your repository to life.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://blocks.githubnext.com/" target="_blank" rel="noopener noreferrer">官方展示链接</a></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="新特性介绍">新特性介绍<a href="#新特性介绍" class="hash-link" aria-label="Direct link to 新特性介绍" title="Direct link to 新特性介绍">​</a></h2><ul><li>Github 仓库的 README.md 文件没有办法像现在很多静态网站框架直接 embed 一个demo 进来，所以就只能用 截图来展示效果，所以针对这个痛点，github 将会支持直接在 README.md 中直接插入 demo 方便大家更清楚直观的了解对应内容。</li></ul><p><img loading="lazy" src="/daydream/en/assets/images/readme1-e99e748f84c7161dfcbf0758e954414a.png" width="1722" height="595" class="img_ev3q"></p><ul><li>直接展示有关项目健康状况的实时统计数据</li></ul><p><img loading="lazy" src="/daydream/en/assets/images/readme2-e271ef00ff52a1c19099087c60b8c9b5.png" width="1691" height="611" class="img_ev3q"></p><ul><li>文档内容太多只能靠 <code>command + f</code> 搜索？新版 github 拥有可搜索的参考文档了!</li></ul><p><img loading="lazy" src="/daydream/en/assets/images/readme3-63bb4b060d5ac37533b6dd3713439d98.png" width="1679" height="619" class="img_ev3q"></p><ul><li>根据项目的文件结构生成目录，<code>Octotree</code> 可以退役啦</li></ul><p><img loading="lazy" src="/daydream/en/assets/images/readme4-89055091e7be4f68bf55228461d8767a.png" width="1707" height="657" class="img_ev3q"></p><ul><li>有些文件的原始形式都易于理解，例如 CSV 或 JSON 数据，所以新版本不仅可以用易读的形式来查看数据，并且重点是可以<strong>与之交互</strong>! </li></ul><p><img loading="lazy" src="/daydream/en/assets/images/readme5-de09717a020b03bb8c5d193844d1af93.png" width="1740" height="606" class="img_ev3q"></p><p>当然你也可以选择以图表的形式来查看这些内容:
+<img loading="lazy" src="/daydream/en/assets/images/readme5.1-4814dad1208876762e31afae56fb6eb8.png" width="1323" height="479" class="img_ev3q"></p><ul><li>当然也有了可以插入到文档中的可编辑图表</li></ul><p><img loading="lazy" src="/daydream/en/assets/images/readme6-e3dc53f4fc935b84c7826f81543c8dc6.png" width="1307" height="514" class="img_ev3q"></p><ul><li>还可以为你的工作流量身定制用户界面</li></ul><p><img loading="lazy" src="/daydream/en/assets/images/readme7-c6c9cca55f6a41dfff20fe2407759ca9.png" width="1302" height="529" class="img_ev3q"></p><ul><li>可以更好的看到社区成员的状态</li></ul><p><img loading="lazy" src="/daydream/en/assets/images/readme8-48d0c3b847bb3530d59621e036af9420.png" width="1348" height="624" class="img_ev3q"></p><ul><li>一目了然地了解你的代码结构</li></ul><p><img loading="lazy" src="/daydream/en/assets/images/readme9-6015c471d847f3c6ea372120f14e4685.png" width="1304" height="592" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>dendoink</name>
+            <uri>https://github.com/dendoink</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inside fiber in depth]]></title>
         <id>https://dendoink.github.io/daydream/en/blog/2021/09/01/index</id>
