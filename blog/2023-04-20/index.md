@@ -9,6 +9,8 @@ authors: [dendoink]
 此文并不是完全直译所有内容，在保留声明内容结构基本完整的情况下，主观的增加/删减了部分内容，如果想阅读官方声明，请点击[这里](https://nodejs.org/en/blog/announcements/v20-release-announce)
 :::
 
+<!--truncate-->
+
 ## 新特性介绍
 
 `Node.js 20` 的主要更新

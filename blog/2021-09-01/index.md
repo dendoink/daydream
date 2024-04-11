@@ -15,6 +15,8 @@ authors: [max_koretskyi]
 
 虽已有中译版，然细读之，察屡有误，故与作者通后更译，此新译之文，与诸君享。
 
+<!--truncate-->
+
 ## 正文
 
 深入研究 React 称为 Fiber 的新架构，了解新 reconciliation 算法的两个主要阶段。

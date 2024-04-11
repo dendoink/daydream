@@ -11,6 +11,8 @@ authors: [dendoink]
 
 - Github 仓库的 README.md 文件没有办法像现在很多静态网站框架直接 embed 一个demo 进来，所以就只能用 截图来展示效果，所以针对这个痛点，github 将会支持直接在 README.md 中直接插入 demo 方便大家更清楚直观的了解对应内容。
 
+<!--truncate-->
+
 ![](./_statics/readme1.png)
 
 - 直接展示有关项目健康状况的实时统计数据
